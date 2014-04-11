@@ -1,7 +1,7 @@
 Enterprise Application
 =====================
 
-Applications for Common Business Needs - Using the Enterprise Reference Models 
+Simple Applications for Common Business Needs 
 
 
 Enterprise is an overall project to help eliminate building the same application over and over.
